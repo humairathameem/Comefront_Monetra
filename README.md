@@ -27,7 +27,7 @@ Update this list to match the technologies actually used.
 
 Getting Started
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/humairathameem/Comefront_Monetra
 cd Monetra
 npm install
 npm run dev
